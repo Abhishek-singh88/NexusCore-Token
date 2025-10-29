@@ -20,10 +20,16 @@
 | **Initial Supply** | 5,000,000 NXC |
 | **Use Case** | Cross-Chain Bridge Utility |
 
+
+### Mint Address:
 ```bash
-Mint Address: BRxCtCD7SNPze2RqaTwZjG6YJKZBV9ZDWXihhUxQFfnE
-Mint Hash : 5qz1HAW2EcuUX6Xg6frPYCaUGdBqqb2T12NvsfiSizNQHY2E6R8UXP4VgGhrn7oWrtZvtvRPA2FE5JPpGjCLm7Q9
+ BRxCtCD7SNPze2RqaTwZjG6YJKZBV9ZDWXihhUxQFfnE
 ```
+### Mint Hash : 
+```bash
+5qz1HAW2EcuUX6Xg6frPYCaUGdBqqb2T12NvsfiSizNQHY2E6R8UXP4VgGhrn7oWrtZvtvRPA2FE5JPpGjCLm7Q9
+```
+
 ## 📸 Project Screenshot
 ![NexusCore Dashboard](./assets/terminal.png)
 
