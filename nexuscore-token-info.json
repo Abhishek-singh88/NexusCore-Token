@@ -1,0 +1,21 @@
+{
+  "name": "NexusCore Token",
+  "symbol": "NXC",
+  "mintAddress": "BRxCtCD7SNPze2RqaTwZjG6YJKZBV9ZDWXihhUxQFfnE",
+  "decimals": 8,
+  "initialSupply": "5,000,000",
+  "totalSupplyRaw": "500000000000000",
+  "transactionSignature": "5qz1HAW2EcuUX6Xg6frPYCaUGdBqqb2T12NvsfiSizNQHY2E6R8UXP4VgGhrn7oWrtZvtvRPA2FE5JPpGjCLm7Q9",
+  "network": "devnet",
+  "explorerUrls": {
+    "transaction": "https://explorer.solana.com/tx/5qz1HAW2EcuUX6Xg6frPYCaUGdBqqb2T12NvsfiSizNQHY2E6R8UXP4VgGhrn7oWrtZvtvRPA2FE5JPpGjCLm7Q9?cluster=devnet",
+    "mint": "https://explorer.solana.com/address/BRxCtCD7SNPze2RqaTwZjG6YJKZBV9ZDWXihhUxQFfnE?cluster=devnet"
+  },
+  "metadata": {
+    "uri": "https://gateway.irys.xyz/BbvHCgDhuyFVhfWN7aZT5hD74zH1g1gLHEsMuDjqTmkH",
+    "imageUri": "https://gateway.irys.xyz/9gQubDoWjZRw24ZzdyByLuUSifd7FngRfLRuMoPHNGb",
+    "description": "NexusCore (NXC) is the foundational token powering decentralized network connections and cross-chain interoperability. Built on Solana for lightning-fast transactions and minimal fees, NXC serves as the core utility token for next-generation DeFi protocols."
+  },
+  "createdAt": "2025-10-29T19:46:47.169Z",
+  "walletAddress": "FbgNUnZpwUSVwsNoZ26QYSZesZgrME7gufUcHxGUgarV"
+}
